@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stringcutter-on-dark.svg">
-  <img alt="stringcutter" src="stringcutter.svg" width="300">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/stringcutter/.github/raw/main/profile/stringcutter-on-dark.svg">
+  <img alt="stringcutter" src="https://github.com/stringcutter/.github/raw/main/profile/stringcutter.svg" width="300">
 </picture>
 
 We make small, sharp tools that cut the strings between your code and the companies
